@@ -1,0 +1,11 @@
+
+ngrok provides secure URL to your localhost server through any NAT or firewall.
+
+Installation Page and setup Instructions:
+	https://ngrok.com/download
+Documentation
+	https://ngrok.com/docs
+
+type following command in commandline you will get public url for localhost
+	ngrok http 8010
+	for example it will give public url http://5af3979d.ngrok.io for local host:8013
