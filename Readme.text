@@ -12,3 +12,4 @@ type following command in commandline you will get public url for localhost
 Note:
 	If any error like ngrok not a command, please make ngrok as path variable available to all system folders, 
 	i.e add path to Environment Variable.
+	or try command from ngrok download folder.
