@@ -10,4 +10,5 @@ type following command in commandline you will get public url for localhost
 	ngrok http 8013
 	for example it will give public url http://5af3979d.ngrok.io for local host:8013
 Note:
-	If any error like ngrok not a command, please make ngrok as path variable available to all system folders, i.e add path to Environment Variable.
+	If any error like ngrok not a command, please make ngrok as path variable available to all system folders, 
+	i.e add path to Environment Variable.
